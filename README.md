@@ -100,23 +100,16 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)"
+    src="https://github-readme-stats-three-iota-67.vercel.app/api?username=dev-rafael01&anuraghazra&theme=tokyonight&show_icons=true&locale=pt-br"
   />
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-rafael01&anuraghazra&theme=tokyonight&show_icons=true&locale=pt-br"
-  />
 
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rafael01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats-three-iota-67.vercel.app/api/top-langs/?username=dev-rafael01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
