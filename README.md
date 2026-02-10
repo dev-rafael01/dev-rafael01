@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Rafael Jesus dos Santos, tenho 28 anos e sou natural de São Paulo. Concluí o Ensino Médio com formação técnica em Informática pelo Senac Santo André.
+Me chamo Rafael Jesus dos Santos, tenho 29 anos e sou natural de São Paulo. Concluí o Ensino Médio com formação técnica em Informática pelo Senac Santo André.
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Anhanguera, com o objetivo de expandir meus conhecimentos e me preparar para atuar como desenvolvedor.
 Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acreditando que dedicação e disciplina são essenciais para conquistar grandes objetivos
 
