@@ -44,9 +44,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-
+               
 <img 
     align="left" 
     alt="PHP" 
@@ -86,6 +84,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
     width="35px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  
+/>
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
 
