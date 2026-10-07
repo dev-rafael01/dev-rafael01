@@ -29,7 +29,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
   <img alt="MySQL" title="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="Postman" title="Postman" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img alt="GitHub" title="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img alt="GitHub" title="GitHub" width="40" height="40" style="filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </p>
 
 ---
