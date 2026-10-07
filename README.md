@@ -47,44 +47,13 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
                
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Angular" 
+    title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="35px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  
-/>
+
 <img
     align="left"
     alt="Java"
@@ -93,6 +62,54 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"   
+/>
+
+<img
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="35px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  
+/>
+ <img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="35px" 
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+ <img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="35px" 
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+           
+          
+
+
+
 
 
 
@@ -109,13 +126,12 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, acr
     src="https://github-readme-stats-three-iota-67.vercel.app/api?username=dev-rafael01&anuraghazra&theme=tokyonight&show_icons=true&locale=pt-br"
   />
 
-
-
-<img 
+   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-three-iota-67.vercel.app/api/top-langs/?username=dev-rafael01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+ 
 </p>
